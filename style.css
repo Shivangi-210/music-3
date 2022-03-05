@@ -1,0 +1,25 @@
+body{
+    background-image: url("notes (1).png");
+    background-position: fixed;
+    background-size: cover;
+}
+.smth{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.no{
+    background-color: rgb(243, 174, 203);
+    color: white;
+}
+.S{
+   float:left ;
+}
+.V{
+    float: right;
+}
+
+.sp,.vo{
+    width: 150px;
+    height: 35px;
+    font-size: 20px;
+}
